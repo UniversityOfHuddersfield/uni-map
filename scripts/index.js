@@ -263,21 +263,6 @@
                 "b_map_label_offset": "50 57"
             },
             {
-                "b_id": "q",
-                "b_campus": "huddersfield",
-                "b_name": "Quayside",
-                "b_lat": "53.644008978704",
-                "b_lng": "-1.776384115219",
-                "b_description": null,
-                "b_departments": null,
-                "b_facilities": null,
-                "b_background": "quayside.jpg",
-                "b_icon_base": "h",
-                "b_zoom_level": "16",
-                "b_map_label_class": "marker-label",
-                "b_map_label_offset": "50 57"
-            },
-            {
                 "b_id": "qsb",
                 "b_campus": "huddersfield",
                 "b_name": "Queen St. Building (QSB)",
